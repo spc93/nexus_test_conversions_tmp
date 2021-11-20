@@ -4,7 +4,7 @@ Real and hacked I16 NeXus files; Jupyter notebook to demonstrate some simple wor
 780431.nxs is a real (quite old) I16 NeXus file
 815893.nxs has been hacked to illustrate some workflows supported by the NXclassic_scan application definition
 
-Click on the Binder icon to start a JupyterHub instance. Click on the Jupyter notebook file (test_classic_scan_conversions_binder_demo) and run notebook (restart kernel and run notebook).
+Click on the Launch Binder icon (below) to start a JupyterHub instance. Click on the Jupyter notebook file (test_classic_scan_conversions_binder_demo) and run notebook (restart kernel and run notebook).
 
 Note: It takes a few minutes for the launch the VM.
 
