@@ -8,7 +8,7 @@ Click on the Launch Binder icon (below) to start a JupyterHub instance. Click on
 
 Note: It takes a few minutes for the launch the VM.
 
-Note: You can't break this as the container imgage is created from scatch each time.
+Note: You can't break this as the container image is created from scatch each time.
 
 Look at the output in the notebook and also the three legacy-format files created.
 
